@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+backend/ml/data/synthetic_startups.csv
+backend/artifacts/
+backend/avas.db
+backend/.env
+
+*.db
+*.sqlite
+*.sqlite3
+coverage.xml
+.coverage
+htmlcov/
+
+
+
+# Environment files
+.env
+.env.*
+!.env.example
